@@ -1,1 +1,1 @@
-Repo sa domacim iz strucnog kursa JavaScipt.
+Repozitorijum sa domacim zadacima iz strucnog kursa JavaScipt.
